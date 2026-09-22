@@ -18,6 +18,6 @@ Ejemplo del video: 53,61 ÷ 2,98 = 17,99 → 17,99 × 999,9 ÷ 19,32 = **931,06*
 
 1. Suba todos los archivos a la raíz de un repositorio (por ejemplo `ley-oro`).
 2. Settings → Pages → Deploy from a branch → `main` / `(root)`.
-3. En `index.html` reemplace `TU-USUARIO` (y `ley-oro` si el repo se llama distinto) en las etiquetas `og:url`, `og:image` y `twitter:image`, para que la imagen salga al compartir el enlace.
+3. Las etiquetas `og:` ya apuntan a https://haroldco45.github.io/ley-del-oro/
 
 Vibras Positivas HM · Caucasia, Antioquia
